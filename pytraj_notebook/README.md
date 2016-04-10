@@ -8,7 +8,7 @@
     - How to run this notebook?
     
     ```bash
-        $ amber.jupyter notebook pytraj_jupyter_notebook.ipynb
+        $ amber.jupyter notebook notebook.ipynb
     ```
     
     - How to run this notebook remotely?
