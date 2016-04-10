@@ -5,15 +5,21 @@
     - pandas: amber.conda install pandas
 
 - If you want to know more
-    - How to run this notebook?::
+    - How to run this notebook?
     
-        amber.jupyter notebook pytraj_jupyter_notebook.ipynb
+    ```bash
+        $ amber.jupyter notebook pytraj_jupyter_notebook.ipynb
+    ```
     
-    - How to run this notebook remotely?::
+    - How to run this notebook remotely?
     
         Check: http://amber-md.github.io/pytraj/latest/tutorials/remote_jupyter_notebook
        
-    - How to convert it to HMTL file? There are several ways::
+    - How to convert it to HMTL file? There are several ways
 
         - Open the notebook, run it and choose: File -> Download as -> HTML (.html)
-        - Run the command line: amber.jupyter nbconvert --to html pytraj_jupyter_notebook.ipynb
+        - Run the command line: 
+
+            ```bash
+            amber.jupyter nbconvert --to html pytraj_jupyter_notebook.ipynb
+            ```
