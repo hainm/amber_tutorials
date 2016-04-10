@@ -4,4 +4,4 @@
 
 - How to convert it to HMTL file? There are several ways
     - Open the notebook, run it and choose: File -> Download as -> HTML (.html)
-    - Run the commland line: amber.jupyter nbconvert --to html pytraj_jupyter_notebook.ipynb
+    - Run the command line: amber.jupyter nbconvert --to html pytraj_jupyter_notebook.ipynb
